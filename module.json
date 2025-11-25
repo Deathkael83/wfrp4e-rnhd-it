@@ -1,0 +1,17 @@
+{
+  "id": "wfrp4e-rnhd-it",
+  "title": "Rough Nights & Hard Days – Traduzione Italiana",
+  "version": "1.0.0",
+  "compatibility": { "minimum": "13", "verified": "13" },
+  "dependencies": [
+    { "id": "wfrp4e-rnhd" }
+  ],
+  "packs": [
+    {
+      "name": "journals",
+      "label": "RNH&D – Journal IT",
+      "path": "packs/journals.db",
+      "type": "JournalEntry"
+    }
+  ]
+}
