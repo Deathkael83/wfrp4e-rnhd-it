@@ -1,6 +1,3 @@
-# wfrp4e-rnhd-it
-Rough Nights &amp; Hard Days – Traduzione Italiana
-
 # WFRP 4e RNHD Module Italian Translation
 
 Add Italian language to the Warhammer Fantasy Roleplay: Rough Nights &amp; Hard Days Foundry Module for FoundryVTT.
