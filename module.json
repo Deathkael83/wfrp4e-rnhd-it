@@ -7,8 +7,7 @@
     { "name": "Deathkael83" }
   ],
   "compatibility": {
-    "minimum": 10,
-    "verified": 12,
+    "minimum": 12,
     "maximum": 13
   },
   "relationships": {
@@ -30,9 +29,6 @@
       }
     ]
   },
-  "scripts": [
-    "scripts/register-babele.js"
-  ],
   "esmodules": ["babele-register.js"],
   "scripts": [],
   "styles": [],
