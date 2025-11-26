@@ -11,7 +11,7 @@ Hooks.once("init", () => {
   }
 
   Babele.get().register({
-    module: "wfrp4e-rnhd", // modulo ORIGINALE
+    module: "wfrp4e-rnhd-it", // modulo ORIGINALE
     lang: "it",
     dir: "translations"    // cartella dove sta wfrp4e-rnhd.journals.json
   });
