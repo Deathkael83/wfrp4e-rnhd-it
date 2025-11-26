@@ -39,13 +39,6 @@
     { "name": "babele" },
     { "name": "wfrp4e-rnhd" }
   ],
-    "languages": [
-    {
-      "lang": "it",
-      "name": "Italiano — RNHD Journals",
-      "path": "translations/wfrp4e-rnhd.journals.json"
-    }
-    ],
   "url": "https://github.com/Deathkael83/wfrp4e-rnhd-it",
   "manifest": "https://github.com/Deathkael83/wfrp4e-rnhd-it/releases/latest/download/module.json",
   "download": "https://github.com/Deathkael83/wfrp4e-rnhd-it/releases/latest/download/module.zip"
