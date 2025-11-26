@@ -1,17 +1,54 @@
 {
-  "id": "wfrp4e-rnhd-it",
+  "name": "wfrp4e-rnhd-it",
   "title": "Rough Nights & Hard Days – Traduzione Italiana",
+  "description": "Traduzione italiana per il modulo wfrp4e-rnhd (WFRP 4e).",
   "version": "1.0.0",
-  "compatibility": { "minimum": "13", "verified": "13" },
-  "dependencies": [
-    { "id": "wfrp4e-rnhd" }
+  "authors": [
+    { "name": "Deathkael83" }
   ],
-  "packs": [
+  "compatibility": {
+    "minimum": 10,
+    "verified": 12,
+    "maximum": 13
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "wfrp4e",
+        "type": "system",
+        "manifest": "https://github.com/moo-man/WFRP4e-FoundryVTT/releases/latest/download/system.json"
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+        "compatibility": {
+          "verified": "2.3.4"
+        }
+      }
+    ]
+  },
+  "scripts": [
+    "scripts/register-babele.js"
+  ],
+  "esmodules": ["babele-register.js"],
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+  "dependencies": [
+    { "name": "babele" },
+    { "name": "wfrp4e-rnhd" }
+  ],
+    "languages": [
     {
-      "name": "journals",
-      "label": "RNH&D – Journal IT",
-      "path": "packs/journals.db",
-      "type": "JournalEntry"
+      "lang": "it",
+      "name": "Italiano — RNHD Journals",
+      "path": "translations/wfrp4e-rnhd.journals.json"
     }
-  ]
+    ],
+  "url": "https://github.com/Deathkael83/wfrp4e-rnhd-it",
+  "manifest": "https://github.com/Deathkael83/wfrp4e-rnhd-it/releases/latest/download/module.json",
+  "download": "https://github.com/Deathkael83/wfrp4e-rnhd-it/releases/latest/download/module.zip"
 }
