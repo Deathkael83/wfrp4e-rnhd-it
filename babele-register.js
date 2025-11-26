@@ -1,15 +1,12 @@
 Hooks.once("init", () => {
-  if (!game.babele) {
+  if (typeof Babele === "undefined") {
     console.error("Babele non è attivo: impossibile registrare la traduzione RNHD.");
     return;
   }
 
-  const babele = game.babele;
-
-  // Traduzioni per il modulo RNHD
-  babele.register({
-    module: "wfrp4e-rnhd",     // nome del modulo ORIGINALE
-    lang: "it",               // lingua
-    dir: "translations"  // cartella che contiene i json di traduzione
+  Babele.get().register({
+    module: "wfrp4e-rnhd",  // id del modulo ORIGINALE
+    lang: "it",
+    dir: "translations"     // cartella del tuo wfrp4e-rnhd-it
   });
 });
