@@ -25,8 +25,7 @@
     {
       "id": "Gerhard Urteil",
       "name": "Gerhard Urteil",
-      "description": "<section class="secret" id="secret-0aLyNzXtnT54SSlK">
-    <p><strong>Status</strong>: Gold 2</p><p>Il magistrato @UUID[Actor.NC7pIVFvbWv9Hxz5]{Hanna Anwalt} è quasi cieca e, per orientarsi, fa affidamento sull’assistente magistrato Gerhardt Urteil. Urteil è in teoria un uomo potente, ma in pratica è poco più che gli occhi, le orecchie e il tuttofare di Anwalt. </p><p>@UUID[JournalEntry.pDZu2xSFXlFumvtN.JournalEntryPage.V5nWWGLyW9hWgUbs#plot-5-–-a-few-gold-crowns-more]{Trama 5 – Per qualche corona in più}</p></section>",
+      "description": "<section class="secret" id="secret-0aLyNzXtnT54SSlK"><p><strong>Status</strong>: Gold 2</p><p>Il magistrato @UUID[Actor.NC7pIVFvbWv9Hxz5]{Hanna Anwalt} è quasi cieca e, per orientarsi, fa affidamento sull’assistente magistrato Gerhardt Urteil. Urteil è in teoria un uomo potente, ma in pratica è poco più che gli occhi, le orecchie e il tuttofare di Anwalt. </p><p>@UUID[JournalEntry.pDZu2xSFXlFumvtN.JournalEntryPage.V5nWWGLyW9hWgUbs#plot-5-–-a-few-gold-crowns-more]{Trama 5 – Per qualche corona in più}</p></section>",
       "species": "Umano",
       "gender": "Maschio",
       "gmnotes": ""
