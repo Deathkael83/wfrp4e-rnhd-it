@@ -1,5 +1,5 @@
 Hooks.once('init', () => {
-  if (typeof Babele === "undefined") {
+  if (typeof Babele === 'undefined') {
     console.error("Babele non è attivo: impossibile registrare la traduzione RNHD.");
     return;
   }
