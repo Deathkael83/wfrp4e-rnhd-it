@@ -2,25 +2,349 @@
   "label": "PNG (RNHD)",
   "mapping": {
     "name": "name",
+    "description": "system.details.biography.value",
     "species": "system.details.species.value",
     "gender": "system.details.gender.value",
     "gmnotes": "system.details.gmnotes.value"
   },
   "entries": [
     {
-      "id": "Bloodletter of Khorne",
-      "name": "Demoni di Khorne",
-      "description": "<section id=\"secret-9qMtg7ExXFbV6pSQ\" class=\"secret\"><p>I Sanguinari uccidono qualsiasi cosa si pari sul loro cammino, preoccupandosi solo di far scorrere del sangue. Per rendere questo scontro più stimolante e carico di pathos, è possibile aggiungere @UUID[Compendium.wfrp4e-core.items.lV7Bxi3T3ps4QBlc]{Mutazioni}, oppure i Tratti delle creature: or the @UUID[Compendium.wfrp4e-core.items.9NROryHer1uXAKwY]{Elite}, @UUID[Compendium.wfrp4e-core.items.9MjH4xyVrd3Inzak]{Rapido}, @UUID[Compendium.wfrp4e-core.items.HbrwGhUl0ZXz4kLA]{Gagliardo}, o @UUID[Compendium.wfrp4e-core.items.k9539MBTFplxsysT]{Tosto}.</p><p>Prescelti da Khorne, i Sanguinari infestano i campi di battaglia del Vecchio Mondo, rubando teschi e vite in onore del Dio del Sangue. Denti affilati come aghi sporgono da mostruosi volti cornuti. La loro pelle rosso sangue è dura come l'ottone, forgiata sull'incudine di una guerra incessante. Ogni Sanguinario impugna una Lama Infernale, una lama affilatissima e intrisa di sangue, che brandisce con sconsiderato abbandono, abbandonandosi alla dolce sensazione di un massacro insensato.</p></section>",
-      "species": "Demone",
-      "gender": "",
+      "id": "Schatzenheimer",
+      "name": "Schatzenheimer",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Three rival, criminal&nbsp; gangs — the @UUID[Actor.2hX69vBEAZncOLdT]{Valentinas} the @UUID[Actor.0LL9UcyxDQ2Qzx9T]{Schatzenheimers}, and the @UUID[Actor.YYkCsVTcW7PlLxLK]{Huydermans} — have each sent an assassin to the Staatsoper Theatre, and each intends to be the one to kill the target: @UUID[Actor.N7Q3O6n7JH8nvyUF]{Albrecht Oldenhaller}. However, Oldenhaller has some unlikely protectors in the form of the Nurgle-worshipping Cult of the Hallowed Larva, so the assassins have much more than their gang rivals to worry about.</p>"
+    },
+    {
+      "id": "Allrella",
+      "name": "Allrella",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p><strong>Membri dell’Ordo Ultima - @UUID[Actor.N5yE3yifdjZ77UKU]{Helga}, @UUID[Actor.Q5nA8TjPG9UfgBUa]{Elphoise}, @UUID[Actor.0Lk2REtzh9XVM8nB]{Allrella}</strong></p><p>I Cultisti dell’<em>Ordo Ultima</em> sono lontani dalla loro città natale, Nuln. Così si concentrano sui loro bicchieri, dando il meglio di sé per non apparire sospetti mentre tengono d’occhio @UUID[Actor.hDdur1pQxsvvWzXd]{Rechtshandler}; di tanto in tanto borbottano preghiere inventate per Verena, così da sostenere la copertura di studiosi in viaggio. Ogni cultista ha una lettera O racchiusa in una lettera U tatuate sul lato sinistro del petto; tutti parlano con l’accento cittadino di Nuln.</p><p> @UUID[JournalEntry.g4vOyAOCjOl4EHBO.JournalEntryPage.vCbvOWyg16kon6e7#trama-–-3-un-volto-dal-passato]{Trama 3 - Un volto dal passato}</p>"
+    },
+    {
+      "id": "Crazy Larz",
+      "name": "Matto Larz",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>@UUID[Actor.1gLZGKozh6nrBjGr]{Thomas} è un uomo abituato a tenere tutto sotto controllo, sia con le sue barche, sia con il suo contrabbando di anelli, sia con la sua futura moglie. Dopo aver appreso dell’infedeltà della @UUID[Actor.RVDzvuNLOyMHpboL]{sua fidanzata con il Barone}, ha chiamato a sé @UUID[Actor.qKIlKSoDoQYCTMGE]{Zio Mho}, @UUID[Actor.0SY3YBbsrNa6bvZ6]{Matto Larz}, and @UUID[Actor.Wnn6QYqqbvG5gotp]{Grosso ‘Riccioli’} per farsi aiutare a impartire un’importante lezione. Tutti gli uomini parlano con un accento del Reikland di infimo livello.</p><p> @UUID[JournalEntry.g4vOyAOCjOl4EHBO.JournalEntryPage.vCbvOWyg16kon6e7#trama-4-–-la-scenata]{Trama 4 – La Scenata}</p>"
+    },
+    {
+      "id": "Inta-Dapesht",
+      "name": "Inta-Dapesht",
+      "description": "<section id=\"secret-lZGMZUg3ypRorILw\" class=\"secret\"><p>Inta-Dapesht’s soul is tied to the blade he carried in life. So, now his rest is disturbed, he will kill any who stop his sword being returned to its rightful resting place.</p><p>@UUID[JournalEntry.7JmoqchNSsLrwZwz.JournalEntryPage.9F9hrdjcrIXmEJTm#plot-3-–-a-collectors-item]{Plot 3 – A Collector’s Item}</p></section>",
+      "species": "Nonmorto",
+      "gender": "???",
       "gmnotes": ""
     },
     {
-      "id": "Eberhardt von Dammenblatz",
-      "name": "Eberhardt von Dammenblatz",
-      "description": "<p>Il Barone Eberhardt von Dammenblatz è sul finire dei 30 anni; Eberhardt ha vissuto costantemente nella stizza. Sebbene anni nell’esercito Imperiale lo abbiano mantenuto relativamente in forma, non è mai stato un combattente, preferendo i feroci dibattiti agli scontri fisici. Anzi, discute sempre molto. Come la maggior parte dei nobili del Wissenland, ha un accento cittadino, seppure un po’ monocorde.</p><p>@UUID[JournalEntry.pDZu2xSFXlFumvtN.JournalEntryPage.V5nWWGLyW9hWgUbs#Trama-1]{Trama 1 – Singolar tenzone}</p>",
+      "id": "Bodyguards and Men-At-Arms",
+      "name": "Guardie del corpo e Uomini d'Arme",
+      "description": "<section id=\"secret-0Y14dFJbDJCBQwkY\" class=\"secret\"><p><strong>Status</strong>: Argento 3</p>\n<p>La @UUID[Actor.J8AHNs6dcy40mhXr]{Grafina} ha numerosi domestici, ancelle, uomini d’arme, 
+guardie del corpo, altri membri del personale e associati vari, tutti abbigliati con una livrea magenta e gialla. Nel suo stato maggiore vi sono Hans Erpresser, servitore con un debole per il ricatto (per lui, utilizzare le statistiche di ancelle e servi) ed @UUID[Actor.eOlJad1Pky9vNevM]{Eliza}, nuova assunta che non è esattamente quel che appare.</p></section>",
       "species": "Umano",
-      "gender": "Maschio"
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Heinrich Gutenberg",
+      "name": "Heinrich Gutenberg",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>A kindly man, with a long, ﬂowing beard, Gutenberg believes knowledge is Verena’s gift, and sees it as his sacred duty to share it with as many people as possible. While this makes him a mine of interesting stories, he can appear somewhat condescending, especially at parties.</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "id": "Thomas Prahmhandler",
+      "name": "Thomas Prahmhandler",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "Thomas è un uomo abituato a tenere tutto sotto controllo, sia con le sue barche, sia con il suo contrabbando di anelli, sia con la sua futura moglie. Dopo aver appreso dell’infedeltà della @UUID[Actor.RVDzvuNLOyMHpboL]{sua fidanzata con il Barone}, ha chiamato a sé @UUID[Actor.qKIlKSoDoQYCTMGE]{Zio Mho}, @UUID[Actor.0SY3YBbsrNa6bvZ6]{Matto Larz}, and @UUID[Actor.Wnn6QYqqbvG5gotp]{Grosso ‘Riccioli’} per farsi aiutare a impartire un’importante lezione. Tutti gli uomini parlano con un accento del Reikland di infimo livello.</p><p> @UUID[JournalEntry.g4vOyAOCjOl4EHBO.JournalEntryPage.vCbvOWyg16kon6e7#trama-4-–-la-scenata]{Trama 4 – La Scenata}</p>"
+    },
+    {
+      "id": "Handmaids and Servants",
+      "name": "Ancelle e Servitori",
+      "description": "<section id=\"secret-f3ECnLv8AjNtLMSV\" class=\"secret\"><p><strong>Status</strong>: Argento 3</p><p>La @UUID[Actor.J8AHNs6dcy40mhXr]{Grafina} ha numerosi domestici, ancelle, uomini d’arme, guardie del corpo, altri membri del personale e associati vari, tutti abbigliati con una livrea magenta e gialla. Nel suo stato maggiore vi sono Hans Erpresser, servitore con un debole per il ricatto (per lui, utilizzare le statistiche di ancelle e servi) ed @UUID[Actor.eOlJad1Pky9vNevM]{Eliza}, nuova assunta che non è esattamente quel che appare.</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Valentina",
+      "name": "Valentina",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p>Three rival, criminal&nbsp; gangs — the @UUID[Actor.2hX69vBEAZncOLdT]{Valentinas} the @UUID[Actor.0LL9UcyxDQ2Qzx9T]{Schatzenheimers}, and the @UUID[Actor.YYkCsVTcW7PlLxLK]{Huydermans} — have each sent an assassin to the Staatsoper Theatre, and each intends to be the one to kill the target: @UUID[Actor.N7Q3O6n7JH8nvyUF]{Albrecht Oldenhaller}. However, Oldenhaller has some unlikely protectors in the form of the Nurgle-worshipping Cult of the Hallowed Larva, so the assassins have much more than their gang rivals to worry about.</p>"
+    },
+    {
+      "id": "Gunther Emming",
+      "name": "Gunther Emming",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>@UUID[Compendium.wfrp4e-starter-set.journals.TSyoR9nSk7cehypG.JournalEntryPage.MM6ubJbPOVCvlRcw]{The High Temple of Sigmar}</p><p>A stern looking man in his 50s with thinning silver hair, Emming is famed for the severity of his sermons, and the sobriety of his demeanor. Though not unkind, he laces even his praise and comforting words with dire warnings of the consequences of vice.</p><p>As the gang violence of Ubersreik increases, Father Emming is actively supporting the Altdorf forces, calling for calm and unity to see Ubersreik through these troubled times.</p><p> </p>"
+    },
+    {
+      "id": "Palace Guard",
+      "name": "Palace Guard",
+      "description": "<section id=\"secret-jUZ9WTEOQY9yCd3b\" class=\"secret\"><p><strong>Status:</strong> Gold 2</p>\n<p>The @UUID[Actor.CcqiAghkzgp9u1In]{Countess} goes nowhere without her many servants, attendants, and guards. Contrary to popular rumour, they are not all bronzed gods and goddesses, chosen because they amuse the Countess’s taste. However, most are drawn from the the lesser Noble Houses of Nuln as commoners do not normally attend royalty.&nbsp;</p>\n<p>Unlike many of the Elector Counts, the Countess chooses not to surround herself with guards drawn from the Knightly Orders, largely because she claims their incessant clanking aggravates her delicate nerves.</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Maximilian Aschaffenberg",
+      "name": "Maximilian Aschaffenberg",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Maximilian has no interest in the political side of the ball, and instead insults and humiliates the Bruners at every opportunity.</p><p> @UUID[JournalEntry.xKUxWd7rOHDNdp9h.JournalEntryPage.EObulGGxYS7Poog4#plot-7-–-a-blot-on-the-escutcheon]{Plot 7 – A Blot on the Escutcheon}</p>"
+    },
+    {
+      "id": "Erich von Holzenauer",
+      "name": "Erich von Holzenauer",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Lord Erich recently distinguished himself as a pistolier in @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.w0YfGxsBuLoODCgc]{The Grey Mountains} facing Greenskins, leaving him very popular with the local Ubersreik’s garrison. This also makes him somewhat less popular with the Altdorf State Army currently stationed in Ubersreik, who seem him as a potential rallying<br>figure of opposition. </p><p>He is a sincere and relatively softly spoken man in his late 30s, who is oblivious to how dashing and attractive he is to many in the room. His late wife died giving birth to his only daughter, Theodora — now a ferociously intelligent woman who currently studies in the @UUID[Compendium.wfrp4e-altdorf.journals.85UN6bKPTfGEBtBb.JournalEntryPage.HYkHeQZtD2AML3oG]{Imperial Engineer’s School} in Altdorf — and he never remarried. This only makes him a more romantic figure in the eyes of his many suitors.</p>"
+    },
+    {
+      "id": "Skaven Gutter Runner",
+      "name": "Skaven Gutter Runner",
+      "description": "<section id=\"secret-3dXhQcWGMgpnbZyX\" class=\"secret\"><p>Stealthy ratmen creep through the corridors of the mansion.</p><p> @UUID[JournalEntry.xKUxWd7rOHDNdp9h.JournalEntryPage.EObulGGxYS7Poog4#plot-6-–-the-stars-are-right]{Plot 6 – The Stars Are Right}</p><p> </p><p> </p></section>",
+      "species": "Skaven",
+      "gender": "Maschio",
+      "gmnotes": ""
+    },
+    {
+      "id": "Edwina Lowenhertz",
+      "name": "Edwina Lowenhertz",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p>@UUID[Actor.UQ2EKtuW4BmJcbJc]{Edvard Lowenhertz} has a rich voice that oozes stagey melodrama, even when discussing the weather. His daughter, Edwina, is in awe of her father, and has proactively encouraged him for years to take his revenge against those who criticised him. After all, it breaks her heart when her father reads and rereads those early reviews; that’s when tears flow and hopelessness rules. To ensure she isn’t recognised in the theatre — for she attends shows there frequently — Edwina wears a false moustache that is unlikely to fool anyone.</p><p>@UUID[JournalEntry.SsYATFVcPahLsAHN.JournalEntryPage.jmhqqWatzKzHAwoV#plot-3-–-critics-rebutted]{Plot 3 – Critics Rebutted}</p>"
+    },
+    {
+      "id": "Christoph Engel",
+      "name": "Christoph Engel",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Few know or understand Christoph Engel, the town’s only native wizard. Engel keeps his own counsel, and presents a different face and accent to every person he meets. He deals with shadows, illusions, and politics, and is employed by @UUID[Actor.hcAF95tFaOdoZoeF]{Lady Nacht} to test the locals. He is not provided with Characteristics as he will not engage directly with anyone, preferring to slip away and cast his spells (which can do whatever you feel works best for the scenario) at his leisure when none are watching or able to detect his influence.</p><p> @UUID[JournalEntry.xKUxWd7rOHDNdp9h.JournalEntryPage.EObulGGxYS7Poog4#plot-4-–-the-ladys-test]{Plot 4 – The Lady’s Test}</p><blockquote class=\"foundry-note\"><p>The statistics provided for this Actor are not official and should be considered fan-made</p></blockquote>"
+    },
+    {
+      "id": "Lorith Silverleaf",
+      "name": "Lorith Silverleaf",
+      "description": "",
+      "species": "Alto Elfo",
+      "gender": "Femmina",
+      "gmnotes": "<p><span class=\"fontstyle0\">Lorith Silverleaf is attending the party out of curiosity, regarding the social drama like a scientist observes a new specimen. While she is undoubtedly arrogant and finds the other species illformed, she will discourse if approached, finding humour in the most unexpected matters. She speaks softly and has expressive hands that she uses to stress spoken points.</span> </p>"
+    },
+    {
+      "id": "Gunni Mohrdorfer",
+      "name": "Gunni Mohrdorfer",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>@UUID[Actor.8xawBmyhzCFVRCSY]{Gunni}, @UUID[Actor.meBFhv03FOIxxEuv]{Bart}, e @UUID[Actor.xpRHuMinqcOTfLhL]{Hans-Frederick} si presentano come seguaci di Morr nell’atto di trasportare un corpo per la sepoltura. Sono equipaggiati con armamentario rubato da un tempio di Morr. Si esprimono sempre in modo teatrale e con un tono monocorde per mantenere la copertura. Quando non si presentano come seguaci di Morr, tutti e tre gli uomini rivelano voci acute con un forte accento di Nuln, il cui tono si alza alla fine di ogni frase.</p><p><strong>Il Corpo</strong></p><p>@UUID[Actor.YW7PY6OHt5krs2pj]{Josef Aufwiegler}  è il &lsquo;corpo&lsquo; che i ‘seguaci di Morr’ trasportano all’interno della bara. Aufwiegler è un agitatore ricercato per aver causato i disordini di Nuln. Sebbene abbia pagato i contrabbandieri per essere condotto in salvo, non si aspettava di venire drogato. E neppure infilato dentro a una bara. O di essere, al suo risveglio, circondato da seguaci di Morr dal volto di teschio! Quando si risveglia, confuso e rintronato dai narcotici, Josef si fa 
+prendere dal panico.</p><p> @UUID[JournalEntry.g4vOyAOCjOl4EHBO.JournalEntryPage.vCbvOWyg16kon6e7#Trama-5-–-cenere-alla-cenere]{Trama 5 – Cenere alla cenere}</p>"
+    },
+    {
+      "id": "Rickard Aschaffenberg",
+      "name": "Rickard Aschaffenberg",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p><span class=\"fontstyle0\">Baron Rickard Aschaffenberg is an enormous man in his 30s, though his lifetime of war and good eating leave him looking much older. His long dark-ginger beard hides a spreading belly, and a surprising amount of muscle. His voice booms whenever he talks, and it seems he loves to talk. Rickard stands in stark contrast to his much shorter, mischievous nephew, Lord @UUID[Actor.5hOJSHJutrmP9XlP]{Maximilian Aschaffenberg}. Maximilian has no interest in the political side of the ball, and instead insults and humiliates the Bruners at every opportunity.</span></p><p> @UUID[JournalEntry.xKUxWd7rOHDNdp9h.JournalEntryPage.EObulGGxYS7Poog4#plot-7-–-a-blot-on-the-escutcheon]{Plot 7 – A Blot on the Escutcheon}</p>"
+    },
+    {
+      "id": "Imperial Viper",
+      "name": "Imperial Viper",
+      "description": "<section id=\"secret-ky6MSLGMB9NncYL4\" class=\"secret\"><p>Normally no longer than 3’ in length, the Imperial Viper is one of the more deadly snakes in the Empire. It typically inhabits meadows, fields, and rocky hillsides, and is known for its irritable disposition. It readily strikes when approached, and its venom is potent enough to kill.</p></section>",
+      "species": "Snake",
+      "gender": "???",
+      "gmnotes": ""
+    },
+    {
+      "id": "Restless Ghost",
+      "name": "Restless Ghost",
+      "description": "<section id=\"secret-oLGLIlxTuYnbznjS\" class=\"secret\"><p>The enraged Ghost has no recollection of who it was in life. Nor does it know why it screams with hatred for @UUID[Actor.S6MLSMjvCEjPcaEw]{Matthias Hubkind}. But it does scream, its torment is unbearable, and it will not stop until it has had its revenge.</p>\n<p>The Ghost appears as a billowing cloud of indistinct green and ash white robes topped with a distended skull twisted with hatred and pain. Tarnished bells hang from rusted manacles about its wrists, each of which resound far too deeply given their relatively small size.</p></section>",
+      "species": "Nonmorto",
+      "gender": "???",
+      "gmnotes": ""
+    },
+    {
+      "id": "Taggee",
+      "name": "Taggee",
+      "description": "<section id=\"secret-AXXeGYhnblps0USY\" class=\"secret\"><p><strong>Status: </strong>Gold 2</p><p>Raja Shrimant Rao of Ind has sent his best taggee agents to secure his rose ruby. Two are trained to fight with Tiger Claws, which appear like knuckledusters with four projecting blades. Tiger Claws use the same statistics as a Dagger but need the Melee (Brawling) Skill, and uses the following additional rules: on a successful Melee (Brawling) Test, you can make any resulting wound appear as if it were caused by a big cat or similar animal.</p><p> @UUID[JournalEntry.7JmoqchNSsLrwZwz.JournalEntryPage.9F9hrdjcrIXmEJTm#plot-7-–-the-rose-tiger]{Plot 7 – The Rose Tiger}</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Emmanuelle von Liebwitz",
+      "name": "Emmanuelle von Liebwitz",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p>The Grand Countess The Grand Countess of Nuln — widely known as just ‘the Countess’ — is a childhood friend of the Emperor, and is widely rumoured to have used this relationship to guarantee her rise to power. Known for her outrageous parties, scandalous style, and her any romances, she is reputed to be the most powerful, and fashionable, woman in the Empire, as well as the most beautiful and eligible. Whispers of her wild temper, capricious nature, and her disdain for politics dog her every step, mostly shared by those jealous of her undisputed grip on Nuln. People of all ranks emulate her to curry favour or simply be like her, meaning her choices for clothing, even when outlandish, are copied everywhere; her softly spoken, refined accent with a gentle up-lift is imitated; and her great love of music, culture, and extravagant entertainment sets the tone for Nuln. As an Elector Countess, she has the right to a Runefang — one of the magical warblades gifted to the Empire by the Dwarfs long ago — but she rarely wears it outside official occasions, preferring to keep it locked in her royal armoury.</p><p>@UUID[JournalEntry.SsYATFVcPahLsAHN.JournalEntryPage.jmhqqWatzKzHAwoV#plot-1-–-best-served-hot]{Plot 1 – Best Served Hot}</p><p>@UUID[JournalEntry.SsYATFVcPahLsAHN.JournalEntryPage.jmhqqWatzKzHAwoV#plot-5-–-local-rivalries]{Plot 5 – Local Rivalries}</p>"
+    },
+    {
+      "id": "Demoni di Khorne",
+      "name": "Demoni di Khorne",
+      "description": "<section id=\"secret-9qMtg7ExXFbV6pSQ\" class=\"secret\"><p>I Sanguinari uccidono qualsiasi cosa si pari sul loro cammino, preoccupandosi solo di far scorrere del sangue. Per rendere questo scontro più stimolante e carico di pathos, è possibile aggiungere @UUID[Compendium.wfrp4e-core.items.lV7Bxi3T3ps4QBlc]{Mutazioni}, oppure i Tratti delle creature: or the @UUID[Compendium.wfrp4e-core.items.9NROryHer1uXAKwY]{Elite}, @UUID[Compendium.wfrp4e-core.items.9MjH4xyVrd3Inzak]{Rapido}, @UUID[Compendium.wfrp4e-core.items.HbrwGhUl0ZXz4kLA]{Gagliardo}, o @UUID[Compendium.wfrp4e-core.items.k9539MBTFplxsysT]{Tosto}.</p><p>Prescelti da Khorne, i Sanguinari infestano i campi di battaglia del Vecchio Mondo, rubando teschi e vite in onore del Dio del Sangue. Denti affilati come aghi sporgono da mostruosi volti cornuti. La loro pelle rosso sangue è dura come l'ottone, forgiata sull'incudine di una guerra incessante. Ogni Sanguinario impugna una Lama Infernale, una lama affilatissima e intrisa di sangue, che brandisce con sconsiderato abbandono, abbandonandosi alla dolce sensazione di un massacro insensato.</p></section>",
+      "species": "Demone",
+      "gender": "???",
+      "gmnotes": ""
+    },
+    {
+      "id": "Martyn Ruchen",
+      "name": "Martyn Ruchen",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Martyn Ruchen has a feverish glint in his eye as he rubs his warty hands with glee. A gem holy to Nurgle, the Choas god of Disease and Despair, will soon be in his hands, and he can barely contain his excitement. All he needs to do is capture @UUID[Actor.N7Q3O6n7JH8nvyUF]{Albrecht Oldenhaller}!</p>\n<p>Ruchen has led the local cell of the Cult of the Hallowed Larva for three months — he recently watched on, tears of joy in his eyes, as the previous priestess was claimed by the Plague Lord as she died of a multitude of beautiful, blossoming diseases — and he is keen to do at least as well as his predecessor.&nbsp;</p>\n<p>If engaged in conversation, Martyn will mumble apologies in his wheezy voice and quickly retreat to his @UUID[Actor.QfuTho9iwb2q6MRp]{cultist friends}, all of whom are dressed as grubby merchants. Martyn smells vaguely of rotten, sweaty ham.</p>"
+    },
+    {
+      "id": "Clothilde Telland",
+      "name": "Clothilde Telland",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p>The dowager-duchess is on the prowl for her fourth husband after her third had an unfortunate barging accident in the canals of Telland. She’s loud, flirtatious, and keen to display her giant gem to any who are interested in gazing at her ample bosom.</p><p> @UUID[JournalEntry.7JmoqchNSsLrwZwz.JournalEntryPage.9F9hrdjcrIXmEJTm#plot-7-–-the-rose-tiger]{Plot 7 – The Rose Tiger}</p>"
+    },
+    {
+      "id": "Celestine Hoch",
+      "name": "Celestine Hoch",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p>@UUID[Compendium.wfrp4e-starter-set.journals.TSyoR9nSk7cehypG.JournalEntryPage.YPtYlkm1obschPba]{The Temple of Shallya}</p>"
+    },
+    {
+      "id": "Coachman",
+      "name": "Cocchiere",
+      "description": "",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": "<p> Vi è un discreto numero di cocchieri e barcaioli: tutti umani che soggiornano alle Tre Piume. La maggior parte di loro beve fino a ubriacarsi, prima di trascinarsi nel dormitorio comune.</p>"
+    },
+    {
+      "id": "Detlef Sierck",
+      "name": "Detlef Sierck",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Sierck is a genius, a fact even he can’t deny. Actor, playwright, and poet without compare, even his greatest critics don’t doubt his brilliance. Up close and away from the stage make-up, it’s clear Detlef has lived the good life for a year or two too long: he has a soft gut that he wraps in a corset when on-stage, and is probably older than the 36 years he claims, perhaps much older. He wears his moustaches unfashionably long — to better hide his browning teeth — and he looks haunted when left alone. However, when he turns on the charm, the dashing leading man he has perfected after many years of extraordinary performances comes to life, and few are left unimpressed.</p><p> @UUID[JournalEntry.SsYATFVcPahLsAHN.JournalEntryPage.jmhqqWatzKzHAwoV#plot-3-–-critics-rebutted]{Plot 3 – Critics Rebutted}</p>"
+    },
+    {
+      "id": "Nulner Watchman",
+      "name": "Nulner Watchman",
+      "description": "<section id=\"secret-4RudtmVM88kGTO5e\" class=\"secret\"><p><strong>Status:&nbsp;</strong>Silver 1</p>\n<p>The Watch and guards of various types are found throughout the theatre, and patrolling outside. The @UUID[Actor.CcqiAghkzgp9u1In]{Countess} is in attendance, so they are all keen to impress.</p>\n<p>Most of the Watch patrols are led by @UUID[Actor.nqoyWWVX4oZklgcT]{sergeants}, as their superiors are determined that nothing will go wrong given the @UUID[Actor.CcqiAghkzgp9u1In]{Countess} herself is under their protection.&nbsp;</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Petra Steinmetz",
+      "name": "Petra Steinmetz",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p>Quiet Mother Steinmetz was blessed by Verena at the tender age of seven, and has been learning law, justice, and swordplay since then. Now in her 20s, she is a rising star in her cult.</p>"
+    },
+    {
+      "id": "Maria-Ulrike von Liebwitz",
+      "name": "Maria-Ulrike von Liebwitz",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p>Calma, sicura di sé e abile, la Grafina Maria-Ulrike ha 30 anni ed emana la quieta nobiltà di una donna nata per il potere. Alta, con i capelli biondi acconciati corti, predilige abbigliarsi secondo l’ultima moda del Reikland, anche se può vestire secondo le usanze locali per dare una migliore impressione di sé. Il Reikspiel parlato dalla Grafina è raffinato, anche se vi è un accenno di squillo nel tono della voce che tradisce gli inverni trascorsi a Nuln.</p><p>@UUID[JournalEntry.g4vOyAOCjOl4EHBO.JournalEntryPage.vCbvOWyg16kon6e7#trama-1-–-una-faccenda-importante]{Trama 1 – Una faccenda importante}</p>"
+    },
+    {
+      "id": "Wilhelm von Saponatheim",
+      "name": "Wilhelm von Saponatheim",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Graf Wilhelm has been in control his entire life, so he hates that he needs this wedding for the coin it will secure. He also hates that his @UUID[Actor.rRnBE8V1qUvN44ed]{little girl} will be marrying a sniveling little Wissenlander! But, it was organised by his father, and father needs be obeyed. So, he frowns through all the proceedings, drinking heavily from the stock of Tilean wine brought by the Ambossteins. That makes all the foreigners in his court almost tolerable.</p><p> @UUID[JournalEntry.7JmoqchNSsLrwZwz.JournalEntryPage.9F9hrdjcrIXmEJTm#plot-3-–-a-collectors-item]{Plot 3 – A Collector’s Item}</p>"
+    },
+    {
+      "id": "Servants, Cleaners, and Similar",
+      "name": "Servitori, Addetti alle pulizie, and Simili",
+      "description": "<section id=\"secret-tduNZ5Ng6tPDFp65\" class=\"secret\"><p><strong>Status</strong>: Ottone 3</p>\n<p>@UUID[Actor.Rbful1SWQ9liRKFk]{Hans Orf}, il proprietario delle Tre Piume, ha una varietà di personale che lavora sotto di lui, tra cui: baristi, cuochi, ragazze di servizio, addetti alle pulizie, stallieri e Vecchio Bess, il fabbro. Il GM non si senta limitato da questo elenco. Se desidera aggiungere altro personale, può farlo tranquillamente.</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Andrea Pfeffer",
+      "name": "Andrea Pfeffer",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p>Pudgy Captain @UUID[Actor.xJGrg8I8NsemrsNR]{Erwin Blucher} of the @UUID[Compendium.wfrp4e-starter-set.journals.TSyoR9nSk7cehypG.JournalEntryPage.tCh9vROs0eeTuEwA]{Magnus Tower} and flame-haired Captain Andrea Pfeffer of the Ubersreik Watch do not like each other much. But they find each other’s company infinitely preferable to the political battlefield they find themselves navigating. </p><p>Unless otherwise engaged, Andrea will withdraw relatively early to talk to her men guarding the mansion outside. Blucher will then turn to beer for his amusement.</p>"
+    },
+    {
+      "id": "Jean-Luc de Cadent",
+      "name": "Jean-Luc de Cadent",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Baron Jean-Luc’s costume is the most elaborate at the ball. He is arrayed in cloth-of-gold and silk and dressed as a Bretonnian Knight, complete with a papier-mâché horse. He has trouble negotiating doors, but this doesn’t bother him at all as he smiles and waves. His true purpose is to report back to the Duc de Parravon about the competing factions in Ubersreik. Reikspiel is a second language for him, so he speaks with an outrageous Bretonnian accent.</p>"
+    },
+    {
+      "id": "Helga",
+      "name": "Helga",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p><strong>Membri dell’Ordo Ultima - @UUID[Actor.N5yE3yifdjZ77UKU]{Helga}, @UUID[Actor.Q5nA8TjPG9UfgBUa]{Elphoise}, @UUID[Actor.0Lk2REtzh9XVM8nB]{Allrella}</strong></p><p>I Cultisti dell’<em>Ordo Ultima</em> sono lontani dalla loro città natale, Nuln. Così si concentrano sui loro bicchieri, dando il meglio di sé per non apparire sospetti mentre tengono d’occhio @UUID[Actor.hDdur1pQxsvvWzXd]{Rechtshandler}; di tanto in tanto borbottano preghiere inventate per Verena, così da sostenere la copertura di studiosi in viaggio. Ogni cultista ha una lettera O racchiusa in una lettera U tatuate sul lato sinistro del petto; tutti parlano con l’accento cittadino di Nuln.</p><p> @UUID[JournalEntry.g4vOyAOCjOl4EHBO.JournalEntryPage.vCbvOWyg16kon6e7#trama-–-3-un-volto-dal-passato]{Trama 3 - Un volto dal passato}</p>"
+    },
+    {
+      "id": "Albrecht Oldenhaller",
+      "name": "Albrecht Oldenhaller",
+      "description": "<section id=\"secret-l57yQWg2yvVUo1Dt\" class=\"secret\"><p>@UUID[JournalEntry.SsYATFVcPahLsAHN.JournalEntryPage.jmhqqWatzKzHAwoV#plot-6-–-family-honour]{Plot 6 – Family Honour}</p></section>",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": ""
+    },
+    {
+      "id": "Hanna Anwalt",
+      "name": "Hanna Anwalt",
+      "description": "<section id=\"secret-vgK5elaaoApFUvc2\" class=\"secret\"><p><strong>Status</strong>:&nbsp;Gold 2</p>\n<p>Magistrate Hanna Anwalt is near blind, relying on Assistant Magistrate @UUID[Actor.PlOiRB8TXUoaWOPz]{Gerhard Urteil} to navigate. Urteil is theoretically a powerful man, but in actuality is little more than Anwalt’s eyes, ears, and general dogsbody.&nbsp;</p></section>",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": ""
+    },
+    {
+      "id": "Reiner",
+      "name": "Reiner",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Baron @UUID[Actor.hoYxD4qqwxPJai2L]{Eberhardt von Dammenblatz} has ordered his two spies in Nuln — Brocks and Reiner — to finally put an end to his Liebwitz problem. Both have gritty, street accents, and neither are especially good at their jobs. If @UUID[Actor.eOlJad1Pky9vNevM]{Dominique} is still alive, she is sent to lead them, which she immediately resents and hates, given she prefers to work alone. She cuts her hair short for the assignment and dyes it red, and adopts a broad Stirlander accent that could not sound more ‘farmer’ if she tried.</p>"
+    },
+    {
+      "id": "Joachim Bitterfeld",
+      "name": "Joachim Bitterfeld",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>@UUID[Actor.rRnBE8V1qUvN44ed]{Nastassia} is everything @UUID[Actor.KfVnMx7Bn1DWErM6]{her father} is not: short, sweet, and quite willing to run away from her duties for love. Joachim Bitterfeld has captured her heart completely, and she is determined to marry her brave man. Although the practicalities of hiding her frightfully upper-class accent, and of life without servants, has yet to cross her mind, Joachim is practical; indeed, he has done most of the planning to effect Nastassia’s escape.</p><p> @UUID[JournalEntry.7JmoqchNSsLrwZwz.JournalEntryPage.9F9hrdjcrIXmEJTm#plot-2-–-star-crossed-lovers]{Plot 2 – Star-Crossed Lovers}</p>"
+    },
+    {
+      "id": "Noble Servant",
+      "name": "Noble Servant",
+      "description": "<section id=\"secret-qfcwQiGTyasAOW6r\" class=\"secret\"><p><strong>Status:&nbsp;</strong>Gold 2</p>\n<p>The @UUID[Actor.CcqiAghkzgp9u1In]{Countess} goes nowhere without her many servants, attendants, and guards. Contrary to popular rumour, they are not all bronzed gods and goddesses, chosen because they amuse the Countess’s taste. However, most are drawn from the the lesser Noble Houses of Nuln as commoners do not normally attend royalty.&nbsp;</p>\n<p>Unlike many of the Elector Counts, the Countess chooses not to surround herself with guards drawn from the Knightly Orders, largely because she claims their incessant clanking aggravates her delicate nerves.</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
     },
     {
       "id": "Gerhard Urteil",
@@ -29,6 +353,488 @@
       "species": "Umano",
       "gender": "Maschio",
       "gmnotes": ""
+    },
+    {
+      "id": "Elphoise",
+      "name": "Elphoise",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p><strong>Membri dell’Ordo Ultima - @UUID[Actor.N5yE3yifdjZ77UKU]{Helga}, @UUID[Actor.Q5nA8TjPG9UfgBUa]{Elphoise}, @UUID[Actor.0Lk2REtzh9XVM8nB]{Allrella}</strong></p><p>I Cultisti dell’<em>Ordo Ultima</em> sono lontani dalla loro città natale, Nuln. Così si concentrano sui loro bicchieri, dando il meglio di sé per non apparire sospetti mentre tengono d’occhio @UUID[Actor.hDdur1pQxsvvWzXd]{Rechtshandler}; di tanto in tanto borbottano preghiere inventate per Verena, così da sostenere la copertura di studiosi in viaggio. Ogni cultista ha una lettera O racchiusa in una lettera U tatuate sul lato sinistro del petto; tutti parlano con l’accento cittadino di Nuln.</p><p> @UUID[JournalEntry.g4vOyAOCjOl4EHBO.JournalEntryPage.vCbvOWyg16kon6e7#trama-–-3-un-volto-dal-passato]{Trama 3 - Un volto dal passato}</p>"
+    },
+    {
+      "id": "Nurgle Cultists",
+      "name": "Nurgle Cultists",
+      "description": "<section id=\"secret-cimXGMgUXPEBCp3a\" class=\"secret\"><p>Martyn Ruchen has a feverish glint in his eye as he rubs his warty hands with glee. A gem holy to Nurgle, the Choas god of Disease and Despair, will soon be in his hands, and he can barely contain his excitement. All he needs to do is capture Albrecht Oldenhaller!</p><p>Ruchen has led the local cell of the Cult of the Hallowed Larva for three months — he recently watched on, tears of joy in his eyes, as the previous priestess was claimed by the Plague Lord as she died of a multitude of beautiful, blossoming diseases — and he is keen to do at least as well as his predecessor. </p><p>If engaged in conversation, Martyn will mumble apologies in his wheezy voice and quickly retreat to his cultist friends, all of whom are dressed as grubby merchants. Martyn smells vaguely of rotten, sweaty ham.</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Heinrich Böttcher",
+      "name": "Heinrich Böttcher",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": ""
+    },
+    {
+      "id": "Hanna Lastkahn",
+      "name": "Hanna Lastkahn",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p>Gli ‘Schmidt’ sono tra di loro… ‘schmitten’. È la nona volta che il Barone Freidrich si innamora di una donna già impegnata, pertanto sa che è per davvero. Fräulein @UUID[Actor.RVDzvuNLOyMHpboL]{Lastkahn} si è innamorata per la prima volta, ed è quel tipo d’amore che nessuno può aver mai provato prima. È chiaro, per chiunque presti loro attenzione, che le buone maniere, gli abiti nobili e l’accento colto di Freidrich non si prestino affatto al nome ‘Johann Schmidt’ o alla ‘Frau Schmidt’, evidentemente di classe inferiore.</p><p> @UUID[JournalEntry.g4vOyAOCjOl4EHBO.JournalEntryPage.vCbvOWyg16kon6e7#trama-2-–-posizioni-compromettenti]{Trama 2 – Posizioni compromettenti}</p>"
+    },
+    {
+      "id": "Hans Orf",
+      "name": "Hans Orf",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p> Hans Orf, il proprietario delle Tre Piume, ha una varietà di personale che lavora sotto di lui, tra cui: baristi, cuochi, ragazze di servizio, addetti alle pulizie, stallieri e @UUID[Actor.pwoTTFN0FAQ66Vhv]{Vecchio Bess}, il fabbro. Il GM non si senta limitato da questo elenco. Se desidera aggiungere altro personale, può farlo tranquillamente.</p>"
+    },
+    {
+      "id": "Matthias Hubkind",
+      "name": "Matthias Hubkind",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>The most promising orphan raised by the flagellant Order of the Three Brothers in a generation, Hubkind came to Altdorf 40 years ago to train as a Witch Hunter. He now has three decades of experience burning the enemies of Sigmar, and he tirelessly pursues this holy duty. He is suspicious of everyone and rarely speaks, except to sonorously pronounce judgement on heretics.</p><p>Though deep into his 50s, Matthais’s body is still strong, and his will is even stronger. His back is a lattice of scars won from decades of purifying his soul with blessed pain.</p><p> @UUID[JournalEntry.pDZu2xSFXlFumvtN.JournalEntryPage.V5nWWGLyW9hWgUbs#plot-4-–-innocence-maintained]{Plot 4 – Innocence Maintained}</p>"
+    },
+    {
+      "id": "Edvard Lowenhertz",
+      "name": "Edvard Lowenhertz",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Edvard Lowenhertz has a rich voice that oozes stagey melodrama, even when discussing the weather. His daughter, @UUID[Actor.743hhaYZkzT80Y92]{Edwina}, is in awe of her father, and has proactively encouraged him for years to take his revenge against those who criticised him. After all, it breaks her heart when her father reads and rereads those early reviews; that’s when tears flow and hopelessness rules. To ensure she isn’t recognised in the theatre — for she attends shows there frequently — Edwina wears a false moustache that is unlikely to fool anyone.</p><p>@UUID[JournalEntry.SsYATFVcPahLsAHN.JournalEntryPage.jmhqqWatzKzHAwoV#plot-3-–-critics-rebutted]{Plot 3 – Critics Rebutted}</p>"
+    },
+    {
+      "id": "Ursula Kopfgeld",
+      "name": "Ursula Kopfgeld",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p>Ursula è cresciuta molto a est, sul Confine con il Kislev prospiciente il ghiacciato Oblast Occidentale, e non ha tempo da dedicare agli sciocchi. Ha lavorato come cacciatrice di taglie per oltre un decennio ed è orgogliosa del suo lavoro. Ha un marcato accento dell’Ostland, il che implica inserire una breve pausa prima delle parole che intende sottolineare, così viene spesso scambiata per Kislevita.</p><p>@UUID[JournalEntry.g4vOyAOCjOl4EHBO.JournalEntryPage.vCbvOWyg16kon6e7#trama-6-–-per-un-pugno-di-corone]{Trama 6 – Per un pugno di Corone d'Oro}</p>"
+    },
+    {
+      "id": "Brocks",
+      "name": "Brocks",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Baron @UUID[Actor.hoYxD4qqwxPJai2L]{Eberhardt von Dammenblatz} has ordered his two spies in Nuln — Brocks and Reiner — to finally put an end to his Liebwitz problem. Both have gritty, street accents, and neither are especially good at their jobs. If @UUID[Actor.eOlJad1Pky9vNevM]{Dominique} is still alive, she is sent to lead them, which she immediately resents and hates, given she prefers to work alone. She cuts her hair short for the assignment and dyes it red, and adopts a broad Stirlander accent that could not sound more ‘farmer’ if she tried.</p>"
+    },
+    {
+      "id": "Servant",
+      "name": "Servant",
+      "description": "<section id=\"secret-ZMqSSP5yvHjOIsoD\" class=\"secret\"><p><strong>Status: </strong>Silver 1</p>\n<p>The Staatsoper theatre employs staff of all kinds to service and entertain Nuln’s cultured elite. Use the following samples should statistics for these be needed.</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Big 'Curls'",
+      "name": "Grosso 'Riccioli'",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>@UUID[Actor.1gLZGKozh6nrBjGr]{Thomas} è un uomo abituato a tenere tutto sotto controllo, sia con le sue barche, sia con il suo contrabbando di anelli, sia con la sua futura moglie. Dopo aver appreso dell’infedeltà della @UUID[Actor.RVDzvuNLOyMHpboL]{sua fidanzata con il Barone}, ha chiamato a sé @UUID[Actor.qKIlKSoDoQYCTMGE]{Zio Mho}, @UUID[Actor.0SY3YBbsrNa6bvZ6]{Matto Larz}, and @UUID[Actor.Wnn6QYqqbvG5gotp]{Grosso ‘Riccioli’} per farsi aiutare a impartire un’importante lezione. Tutti gli uomini parlano con un accento del Reikland di infimo livello.</p><p> @UUID[JournalEntry.g4vOyAOCjOl4EHBO.JournalEntryPage.vCbvOWyg16kon6e7#trama-4-–-la-scenata]{Trama 4 – La Scenata}</p>"
+    },
+    {
+      "id": "Heinrich von Falkenhayn",
+      "name": "Heinrich von Falkenhayn",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Heinrich hails from the market town of Stimmingen in the duchy of Falkenhayn to the south. He’s in his early 40s and has a careful eye for the evening’s proceedings, which he will report back to his father, Graf Wolfgang von Falkenhayn. Heinrich has a cutting wit and a dry sense of humour.</p>"
+    },
+    {
+      "id": "Mercinellin 'Seedling' Thorncobble",
+      "name": "Mercinellin 'Semenza' Pietraguzza",
+      "description": "",
+      "species": "Halfling",
+      "gender": "Femmina",
+      "gmnotes": "<p>Semenza è un Halfling del famigerato clan Pietraguzza di Altdorf. Attualmente è in fuga dalle sue responsabilità e sta cercando di guadagnare qualche spicciolo grazie al gioco d’azzardo e al pettegolezzo. Come la maggior parte dei Pietraguzza, ha una dizione impeccabile e un accento di classe superiore, che sorprende tutti coloro che sono abituati a incontrare Halfling più grossolani.</p>"
+    },
+    {
+      "id": "Josef Aufwiegler",
+      "name": "Josef Aufwiegler",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p> Josef Aufwiegler è il ‘corpo’ che i ‘seguaci di Morr’ trasportano all’interno della bara. Aufwiegler è un agitatore ricercato per aver causato i disordini di Nuln. Sebbene abbia pagato i contrabbandieri per essere condotto in salvo, non si aspettava di venire drogato. E neppure infilato dentro a una bara. O di essere, al suo risveglio, circondato da seguaci di Morr dal volto di teschio!</p>\n          <p>Quando si risveglia, confuso e rintronato dai narcotici, Josef si fa prendere dal panico.</p>"
+    },
+    {
+      "id": "Huydermans",
+      "name": "Huydermans",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p>Three rival, criminal&nbsp; gangs — the @UUID[Actor.2hX69vBEAZncOLdT]{Valentinas} the @UUID[Actor.0LL9UcyxDQ2Qzx9T]{Schatzenheimers}, and the @UUID[Actor.YYkCsVTcW7PlLxLK]{Huydermans} — have each sent an assassin to the Staatsoper Theatre, and each intends to be the one to kill the target: @UUID[Actor.N7Q3O6n7JH8nvyUF]{Albrecht Oldenhaller}. However, Oldenhaller has some unlikely protectors in the form of the Nurgle-worshipping Cult of the Hallowed Larva, so the assassins have much more than their gang rivals to worry about.</p>"
+    },
+    {
+      "id": "Pfeifraucher Noble",
+      "name": "Pfeifraucher Noble",
+      "description": "<section id=\"secret-5MJTknqncOiVRaZ7\" class=\"secret\"><p>There is turmoil building across the Empire (see the <strong>Enemy Within</strong> campaign for more on this), so many of the local nobles, especially the Toppenheimers and Pfiefrauchers, are spoiling for a fight.</p><p> @UUID[JournalEntry.SsYATFVcPahLsAHN.JournalEntryPage.jmhqqWatzKzHAwoV#plot-5-–-local-rivalries]{Plot 5 – Local Rivalries}</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Otto Krupp",
+      "name": "Otto Krupp",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Doktor Otto Krupp has no real interest in politics. He is attending the party largely to tout his services and have a good time with his mistress. If any Character is ill or wounded, Krupp quickly latches on to them in the hope of making coin.</p><p>@UUID[JournalEntry.xKUxWd7rOHDNdp9h.JournalEntryPage.EObulGGxYS7Poog4#plot-5-–-playing-doctor]{Plot 5 – Playing Doctor}</p>"
+    },
+    {
+      "id": "Heinrich von Bruner",
+      "name": "Heinrich von Bruner",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Enormously rich Lord Heinrich von Bruner is at the ball at the order of his mother, Lady Kisaya Bruiner: she is not pleased with current rumours circulating Ubersreik concerning the piety of her family. So, he is putting his best face forward with damage control in mind, which is why he is in attendance with the almost saintly Lady @UUID[Actor.n6yKuzWsutGUyBml]{Galina Hohengolfrid}, a woman with an extraordinarily good reputation in Ubersreik, for all that most of it is based in lies. Lord Heinrich intends to show that his family as a whole is loyal to the Empire, and that rumours concerning taint in his household are false. If possible, he also wants to embarrass the Aschaffenbergs, whom he believes are his most likely rivals for control of Ubersreik. </p><p> @UUID[JournalEntry.xKUxWd7rOHDNdp9h.JournalEntryPage.EObulGGxYS7Poog4#plot-7-–-a-blot-on-the-escutcheon]{Plot 7 – A Blot on the Escutcheon}</p>"
+    },
+    {
+      "id": "Musician",
+      "name": "Musician",
+      "description": "<section id=\"secret-jdvdXe9yC7OpKlhp\" class=\"secret\"><p><strong>Status:&nbsp;</strong>Silver 1</p>\n<p>The Staatsoper theatre employs staff of all kinds to service and entertain Nuln’s cultured elite. Use the following samples should statistics for these be needed.</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Siegfried von Saponatheim",
+      "name": "Siegfried von Saponatheim",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p><span class=\"fontstyle0\">Lord Siegfried von Saponatheim is the young cousin of Graf @UUID[Actor.KfVnMx7Bn1DWErM6]{Wilhelm von Saponatheim}. He has never held lands of his own, but has a reputation for understanding business. In recent years, the von Saponatheims have become very active politically in an attempt to acquire more lands and wealth. Siegfried is a tall, dark-haired man with a seemingly endless supply of hunting stories. If anyone mentions Bögenhafen, he will dismissively mention that he never goes there.</span></p><p><span class=\"fontstyle0\">If the Saponatheims did not do well from </span><span class=\"fontstyle2\">@UUID[JournalEntry.7JmoqchNSsLrwZwz]{Nastassia’s Wedding}</span><span class=\"fontstyle0\">, it’s possible @UUID[Actor.KfVnMx7Bn1DWErM6]{Graf Wilhelm} will attend the Ubersreik party personally to support his cousin’s political manoeuvers. He will, of course, turn a blind eye to Siegfried’s liberal use of emetic powder…</span></p>"
+    },
+    {
+      "id": "Freidrich von Pfeifraucher",
+      "name": "Freidrich von Pfeifraucher",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Gli ‘Schmidt’ sono tra di loro… ‘schmitten’. È la nona volta che il Barone Freidrich si innamora di una donna già impegnata, pertanto sa che è per davvero. Fräulein @UUID[Actor.RVDzvuNLOyMHpboL]{Lastkahn} si è innamorata per la prima volta, ed è quel tipo d’amore che nessuno può aver mai provato prima. È chiaro, per chiunque presti loro attenzione, che le buone maniere, gli abiti nobili e l’accento colto di Freidrich non si prestino affatto al nome ‘Johann Schmidt’ o alla ‘Frau Schmidt’, evidentemente di classe inferiore.</p><p> @UUID[JournalEntry.g4vOyAOCjOl4EHBO.JournalEntryPage.vCbvOWyg16kon6e7#trama-2-–-posizioni-compromettenti]{Trama 2 – Posizioni compromettenti}</p>"
+    },
+    {
+      "id": "Ordo Ultima Cultist",
+      "name": "Ordo Ultima Cultist",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>The Cultists of the Ordo Ultima are far from their home territory of Nuln. So, they nurse drinks, trying their best not to look suspicious as they watch for @UUID[Actor.hDdur1pQxsvvWzXd]{Rechtshandler}, occasionally muttering made-up prayers to Verena to cement their cover as travelling scholars. Each cultist has a letter O enclosed within a letter U tattooed on the left breast, and all talk with urbane Nulner accents.</p><p>@UUID[JournalEntry.pDZu2xSFXlFumvtN.JournalEntryPage.V5nWWGLyW9hWgUbs#plot-3-–-youthful-indiscretions]{Plot 3 – Youthful Indiscretions}</p>"
+    },
+    {
+      "id": "Hubkind’s Mob",
+      "name": "Hubkind’s Mob",
+      "description": "<section id=\"secret-XerHasCihJeBuTFp\" class=\"secret\"><p><strong>Status:&nbsp;</strong>Brass 4</p>\n<p>Accomplices, spies, enforcers, and thugs of the ever-vigilant @UUID[Actor.S6MLSMjvCEjPcaEw]{Matthias Hubkind}</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Dominique Herveaux",
+      "name": "Dominique Herveaux",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "&lsquo;Eliza, la serva&rsquo; in realtà è un’assassina al soldo del @UUID[Actor.hoYxD4qqwxPJai2L]{Barone von Dammenblatz} con il compito di uccidere il @UUID[Actor.jCSHbThjx9ti6rR1]{campione giudiziario} della @UUID[Actor.J8AHNs6dcy40mhXr]{Grafina Maria-Ulrike}. Interpreta perfettamente la parte della cameriera leziosa e dalle forme generose, piuttosto disposta a sopportare qualsiasi offesa pur di avvicinarsi al proprio obiettivo. Se la sua copertura salta, impreca nel suo nativo Bretonniano, dimenticandosi del perfetto Reikspiel assimilato, prima di battere in una frettolosa ritirata.</p>"
+    },
+    {
+      "id": "Cultist of the Jade Sceptre",
+      "name": "Cultist of the Jade Sceptre",
+      "description": "<section id=\"secret-oimVbag1l2hbo3z4\" class=\"secret\"><p><strong>Status: </strong>Gold 2</p><p>These foolish, young nobles are lost to the pursuit of endless indulgence in forbidden pleasures, and seek nothing more than to slake their dark thirst on the wine-dark blood of their peers. This isn’t the first time they’ve summoned @UUID[Compendium.wfrp4e-core.actors.8gG2Wim6wAlJWRax]{Daemonettes}. And, should they get their way, it will not be the last.</p><p> @UUID[JournalEntry.7JmoqchNSsLrwZwz.JournalEntryPage.9F9hrdjcrIXmEJTm#plot-5-–-unspeakable-acts]{Plot 5 – Unspeakable Acts}</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Florian Pfeifraucher",
+      "name": "Florian Pfeifraucher",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Florian has been sent by his uncle, Graf Bruno Pfiefraucher, to represent his illustrious family. He is instructed to make any alliances that will advance Pfeifraucher interests and those of their friends the von Liebwitzes.&nbsp;</p>\n<p>Unfortunately for Graf Bruno, and anyone associated with the Pfiefrauchers, Florian has no interest in politics, and simply wishes to have as much of a good time as possible, preferably with free-flowing alcohol, good food, and better company. And if he can’t secure that, bad company will do.</p>"
+    },
+    {
+      "id": "Jendrik von Dabernick",
+      "name": "Jendrik von Dabernick",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>The young General Jendrik von Dabernick is a pompous, puff-chested man full of his own self-importance. He will do very little at the party besides trying to look impressive, smile at pretty people, and give the general impression that, currently, Altdorf and the Emperor control Ubersreik. He will soon grow bored of anyone engaging him in conversations concerning politics, and show his dissatisfaction by walking away.</p>"
+    },
+    {
+      "id": "Gustaf Rechtshandler",
+      "name": "Gustaf Rechtshandler",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Uomo importante e autorevole dall’accento raffinato, Gustaf ha all’incirca 50 anni. Adora essere al centro dell’attenzione, pertanto coglie ogni occasione per interrompere le conversazioni e per mettere in mostra le proprie conoscenze. Non saperne un fico secco su un determinato argomento non gli è d’impedimento: usa con faciloneria delle circonlocuzioni su quel che gli altri attorno a lui stanno dicendo spacciandole per idee originali. Quando è preso dal panico, il suo accento ben costruito svapora nel triviale dialetto della Nuln della sua giovinezza.</p><p>@UUID[JournalEntry.g4vOyAOCjOl4EHBO.JournalEntryPage.vCbvOWyg16kon6e7#trama-3-–-un-volto-dal-passato]{Trama 3 – Un volto dal passato}</p>"
+    },
+    {
+      "id": "Gert",
+      "name": "Gert",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>@UUID[Actor.hVO7ScsPtmyul85F]{Gert} and @UUID[Actor.ykdWommB6UYZR0EE]{Jan} are two of Albrecht the Fish’s most capable and presentable thugs. But, no matter how much they try to fit in, they can’t even manage to get that right. Their demeanour, manner, and their sing-song Marienburger accents make them conspicuous. They are unmistakable to any that pay attention.</p><p>@UUID[JournalEntry.7JmoqchNSsLrwZwz.JournalEntryPage.9F9hrdjcrIXmEJTm#plot-4-–-a-matter-of-business]{Plot 4 – A Matter of Business}</p>"
+    },
+    {
+      "id": "Emmanuelle Nacht",
+      "name": "Emmanuelle Nacht",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p>Lady Emmanuelle Nacht is the Imperial Herald, representative of the Emperor in Ubersreik, and currently the true power in the fortress-town. Over 6-foot tall, she is in disguise as a Knight Panther guarding General von Dabernick to better monitor the local politics first hand. She is keen to see if she can find a resolution for the town’s rulership that will gather broad support. </p><p>Nacht is not given any statistics in this adventure as she will not interact with it directly, but may be a part of the continuing adventures after <em>Lord of Ubersreik</em> is concluded, especially if she should spot a capable group of adventurers she could hire…</p><p>@UUID[JournalEntry.xKUxWd7rOHDNdp9h.JournalEntryPage.EObulGGxYS7Poog4#plot-1-–-dirty-politics]{Plot 1 – Dirty Politics}</p><blockquote class=\"foundry-note\"><p>The statistics provided for this actor do not accurately represent the character and should be considered \"blank\"</p></blockquote>"
+    },
+    {
+      "id": "Eberhardt von Dammenblatz",
+      "name": "Eberhardt von Dammenblatz",
+      "description": "<p>Il Barone Eberhardt von Dammenblatz è sul finire dei 30 anni; Eberhardt ha vissuto costantemente nella stizza. Sebbene anni nell’esercito Imperiale lo abbiano mantenuto relativamente in forma, non è mai stato un combattente, preferendo i feroci dibattiti agli scontri fisici. Anzi, discute sempre molto. Come la maggior parte dei nobili del Wissenland, ha un accento cittadino, seppure un po’ monocorde.</p><p>@UUID[JournalEntry.pDZu2xSFXlFumvtN.JournalEntryPage.V5nWWGLyW9hWgUbs#Trama-1]{Trama 1 – Singolar tenzone}</p>",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>In his late 30s, Eberhardt has been angry his entire life. Though years in the State Army have left him relatively fit, he was never much of a fighter, preferring fierce debate to physical solutions. Indeed, he argues a lot. Like most Wissenlander nobility, his accent is urbane, but somewhat monotone.</p><p>@UUID[JournalEntry.pDZu2xSFXlFumvtN.JournalEntryPage.V5nWWGLyW9hWgUbs#plot-1-–-trial-by-combat]{Plot 1 – Trial by Combat}</p>"
+    },
+    {
+      "id": "Bruno Franke",
+      "name": "Bruno Franke",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Bruno, il campione giudiziario della @UUID[Actor.J8AHNs6dcy40mhXr]{Grafina}, è un armadio di muscoli dominato da un volto sorridente e con un accenno di malizia. Parla con un profondo accento di Altdorf: è nato, quasi quarant’anni fa, nella capitale imperiale da genitori originari delle Terre Meridionali. Possiede una distintiva risata contagiosa e ama le belle sfide.</p>"
+    },
+    {
+      "id": "Karl-Heinz",
+      "name": "Karl-Heinz",
+      "description": "<section id=\"secret-ZtgiaDCQuz9CRsys\" class=\"secret\"><p>There is turmoil building across the Empire (see the <strong>Enemy Within</strong> campaign for more on this), so many of the local nobles, especially the Toppenheimers and Pfiefrauchers, are spoiling for a fight.</p></section>",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": ""
+    },
+    {
+      "id": "Performer",
+      "name": "Performer",
+      "description": "<section id=\"secret-qugtc3NknFdWr1fe\" class=\"secret\"><p><strong>Status:&nbsp;</strong>Silver 1</p>\n<p>The Staatsoper theatre employs staff of all kinds to service and entertain Nuln’s cultured elite. Use the following samples should statistics for these be needed.</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Operagoer",
+      "name": "Operagoer",
+      "description": "<section id=\"secret-dMdn5vFrRjH2Ga9s\" class=\"secret\"><p><strong>Status:&nbsp;</strong>Silver 3</p>\n<p>The theatre is choked with operagoers of all types, most of whom are wealthy burghers from Nuln, like Albrecht Oldenhaller. They all rub shoulders with each other as they drink, gossip, try to catch the @UUID[Actor.CcqiAghkzgp9u1In]{Countess's}eye, then make their way to their seats.</p>\n<p>Add any appropriate Traits, Skills, or Talents if you feel some unique Characters are required.</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Hannes Richter",
+      "name": "Hannes Richter",
+      "description": "<section id=\"secret-vioPdwgsv59osL9h\" class=\"secret\"><p><strong>Status:&nbsp;</strong>Gold 2</p>\n<p>Jovial Magistrate Hannes Richter is in his 60s and dyes his hair in a failed attempt to appear younger.</p></section>",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": ""
+    },
+    {
+      "id": "Toppenheimer Noble",
+      "name": "Toppenheimer Noble",
+      "description": "<section id=\"secret-LGFSnJr57w8ppFFn\" class=\"secret\"><p>There is turmoil building across the Empire (see the <strong>Enemy Within</strong> campaign for more on this), so many of the local nobles, especially the Toppenheimers and Pfiefrauchers, are spoiling for a fight.</p><p> @UUID[JournalEntry.SsYATFVcPahLsAHN.JournalEntryPage.jmhqqWatzKzHAwoV#plot-5-–-local-rivalries]{Plot 5 – Local Rivalries}</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Bart Fehrwalder",
+      "name": "Bart Fehrwalder",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>@UUID[Actor.8xawBmyhzCFVRCSY]{Gunni}, @UUID[Actor.meBFhv03FOIxxEuv]{Bart}, e @UUID[Actor.xpRHuMinqcOTfLhL]{Hans-Frederick} si presentano come seguaci di Morr nell’atto di trasportare un corpo per la sepoltura. Sono equipaggiati con armamentario rubato da un tempio di Morr. Si esprimono sempre in modo teatrale e con un tono monocorde per mantenere la copertura. Quando non si presentano come seguaci di Morr, tutti e tre gli uomini rivelano voci acute con un forte accento di Nuln, il cui tono si alza alla fine di ogni frase.</p><p><strong>Il Corpo</strong></p><p>@UUID[Actor.YW7PY6OHt5krs2pj]{Josef Aufwiegler}  è il &lsquo;corpo&lsquo; che i ‘seguaci di Morr’ trasportano all’interno della bara. Aufwiegler è un agitatore ricercato per aver causato i disordini di Nuln. Sebbene abbia pagato i contrabbandieri per essere condotto in salvo, non si aspettava di venire drogato. E neppure infilato dentro a una bara. O di essere, al suo risveglio, circondato da seguaci di Morr dal volto di teschio! Quando si risveglia, confuso e rintronato dai narcotici, Josef si fa 
+prendere dal panico.</p><p> @UUID[JournalEntry.g4vOyAOCjOl4EHBO.JournalEntryPage.vCbvOWyg16kon6e7#Trama-5-–-cenere-alla-cenere]{Trama 5 – Cenere alla cenere}</p>"
+    },
+    {
+      "id": "Galina Hohengolfrid",
+      "name": "Galina Hohengolfrid",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": ""
+    },
+    {
+      "id": "Ernst Maler",
+      "name": "Ernst Maler",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Under the Jungfreuds, Ernst Maler’s position was administrative only, but when Ubersreik was seized from the Jungfreuds by the State Army of Altdorf, suddenly ‘Burgomeister’ meant something. Maler now has massive ambitions: he wants Ubersreik to be a free town, ruled by his @UUID[Compendium.wfrp4e-starter-set.journals.TSyoR9nSk7cehypG.JournalEntryPage.FZ6VFcaXq1EzHmXF#town-council]{town council}, not another noble. So, whilst Maler is polite and deferential on the surface, every action he takes is premediated in order to further his goals and weaken his opponents in any way he can. Everything Maler does is in the pursuit of his goal to be the next Lord of Ubersreik.</p>"
+    },
+    {
+      "id": "Watch Sergeant",
+      "name": "Watch Sergeant",
+      "description": "<section id=\"secret-UjrrBKx4QGlEMqjX\" class=\"secret\"><p><strong>Status: </strong>Silver 1</p>\n<p>The Watch and guards of various types are found throughout the theatre, and patrolling outside. The @UUID[Actor.CcqiAghkzgp9u1In]{Countess} is in attendance, so they are all keen to impress.</p>\n<p>Most of the Watch patrols are led by sergeants, as their superiors are determined that nothing will go wrong given the @UUID[Actor.CcqiAghkzgp9u1In]{Countess} herself is under their protection.&nbsp;</p>\n<p>However, most of these representatives of the Watch are self-important, preening, and all-too-often involved in criminal activity themselves.</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Kappan's Racketeers",
+      "name": "Kappan's Racketeers",
+      "description": "<section id=\"secret-LclICWLy8VI5WDNX\" class=\"secret\"><p><strong>Status: </strong>Brass 3</p><p>A group of racketeers in Alfonzo Kappan’s employ are planning an explosive escape for their boss. For all they lack intelligence, they make up for it with enthusiasm and ignorance.</p><p>@UUID[JournalEntry.pDZu2xSFXlFumvtN.JournalEntryPage.V5nWWGLyW9hWgUbs#plot-2-–-breakout]{Plot 2 – Breakout}</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Ol' Bess",
+      "name": "Vecchio Bess",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": ""
+    },
+    {
+      "id": "Manfred von Saponatheim",
+      "name": "Manfred von Saponatheim",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Manfred is House Saponatheim’s secret shame. Locked away far from prying eyes for almost three decades, the true heir to the duchy of Saponatheim is about to have his revenge. Largely incapable of speech, Manfred communicates through sad grunts and moans. Should he ever cut his wild hair and trim his matted beard, most would be astounded by just how much Manfred looks like @UUID[Actor.KfVnMx7Bn1DWErM6]{his father}.</p><p> @UUID[JournalEntry.7JmoqchNSsLrwZwz.JournalEntryPage.9F9hrdjcrIXmEJTm#plot-6-–-in-the-best-of-families]{Plot 6 – In the Best of Families}</p><p></p>"
+    },
+    {
+      "id": "Uncle Mho",
+      "name": "Zio Mho",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>@UUID[Actor.1gLZGKozh6nrBjGr]{Thomas} è un uomo abituato a tenere tutto sotto controllo, sia con le sue barche, sia con il suo contrabbando di anelli, sia con la sua futura moglie. Dopo aver appreso dell’infedeltà della @UUID[Actor.RVDzvuNLOyMHpboL]{sua fidanzata con il Barone}, ha chiamato a sé @UUID[Actor.qKIlKSoDoQYCTMGE]{Zio Mho}, @UUID[Actor.0SY3YBbsrNa6bvZ6]{Matto Larz}, and @UUID[Actor.Wnn6QYqqbvG5gotp]{Grosso ‘Riccioli’} per farsi aiutare a impartire un’importante lezione. Tutti gli uomini parlano con un accento del Reikland di infimo livello.</p><p> @UUID[JournalEntry.g4vOyAOCjOl4EHBO.JournalEntryPage.vCbvOWyg16kon6e7#trama-4-–-la-scenata]{Trama 4 – La Scenata}</p>"
+    },
+    {
+      "id": "Watchman",
+      "name": "Watchman",
+      "description": "<section id=\"secret-gEKYq5YejuHKGfxI\" class=\"secret\"><p><strong>Status: </strong>Silver 1</p><p>The End Times are coming, and these watchmen fully embrace it, knowing all else is folly. Blood for the Blood God. Skulls for the Throne of Khorne.</p><p> @UUID[JournalEntry.pDZu2xSFXlFumvtN.JournalEntryPage.V5nWWGLyW9hWgUbs#plot-6-–-day-of-blood]{Plot 6 – Day of Blood}</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Nastassia von Saponatheim",
+      "name": "Nastassia von Saponatheim",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Nastassia is everything her @UUID[Actor.KfVnMx7Bn1DWErM6]{father} is not: short, sweet, and quite willing to run away from her duties for love. @UUID[Actor.Nnas6TyUYFPQJgDa]{Joachim Bitterfeld} has captured her heart completely, and she is determined to marry her brave man. Although the practicalities of hiding her frightfully upper-class accent, and of life without servants, has yet to cross her mind, Joachim is practical; indeed, he has done most of the planning to effect Nastassia’s escape.</p><p>@UUID[JournalEntry.7JmoqchNSsLrwZwz.JournalEntryPage.9F9hrdjcrIXmEJTm#plot-2-–-star-crossed-lovers]{Plot 2 – Star-Crossed Lovers}</p>"
+    },
+    {
+      "id": "Cannon and Mortar Students",
+      "name": "Cannon and Mortar Students",
+      "description": "<section id=\"secret-kYjLBt5BHBmjhLC6\" class=\"secret\"><p><strong>Status: </strong>Brass 4</p><p>@UUID[JournalEntry.SsYATFVcPahLsAHN.JournalEntryPage.jmhqqWatzKzHAwoV#plot-2-–-a-student-prank]{Plot 2 – A Student Prank}</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Wilhelm König",
+      "name": "Wilhelm König",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>If @UUID[Actor.eOlJad1Pky9vNevM]{Dominique Herveaux} survived A Rough Night at the Three Feathers, she’s back, having escaped custody to continue her work. To ensure she’s not recognised, she has cut her hair short, bleached it blonde, and donned a heavy hood. She also adopts a thick Talabeclander accent. She’s very good at her job, meaning any Tests to recognise her are at least <strong>Very Hard (−30)</strong>. If Dominique is already dead, @UUID[Actor.hoYxD4qqwxPJai2L]{von Dammenblatz} hires Wilhelm König to replace her. Use @UUID[Actor.eOlJad1Pky9vNevM]{Dominique’s} statistics to represent Wilhelm, but reduce all Attributes and Skills by −10 due to his relative inexperience.</p>"
+    },
+    {
+      "id": "Stagehand",
+      "name": "Stagehand",
+      "description": "<section id=\"secret-YrhP9zSFKhGj8C8t\" class=\"secret\"><p><strong>Status:&nbsp;</strong>Silver 1</p>\n          <p>The Staatsoper theatre employs staff of all kinds to service and entertain Nuln’s cultured elite. Use the following samples should statistics for these be needed.</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Brecht Kavenner",
+      "name": "Brecht Kavenner",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Nasal-voiced Kavenner is the @UUID[Actor.CcqiAghkzgp9u1In]{Countess’s} personal lawyer. Known as a stern, dedicated man who is utterly devoted to his wife, children, and the @UUID[JournalEntry.NcH9OhleJFfaUdon.JournalEntryPage.9bWE0Ayt5XGQf50r]{Cult of Verena}, he uses this good reputation to disguise his second life as one of the most successful and depraved cultists of the <em>Ordo Ultima</em>. Tasked three years ago to corrupt the Countess to the service of the Prince of Pleasure, he has found her inexplicably intractable. This confuses and annoys him in equal measure, which he invariably takes out on his inferiors.</p>"
+    },
+    {
+      "id": "Josef von Angendorf",
+      "name": "Josef von Angendorf",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>As Graf Josef, the Wraith plays the role of a charming but dim-witted young noble, with no interests outside the latest fashion and gossip. As the Wraith, Graf Josef is witty, charming, and always ready with a quip should the chance arise.</p><p>@UUID[JournalEntry.7JmoqchNSsLrwZwz.JournalEntryPage.9F9hrdjcrIXmEJTm#plot-7-–-the-rose-tiger]{Plot 7 – The Rose Tiger}</p>"
+    },
+    {
+      "id": "Glimbrin Oddsocks",
+      "name": "Glimbrin Calzespaiate",
+      "description": "",
+      "species": "Gnomo",
+      "gender": "Maschio",
+      "gmnotes": "<p> Glimbrin è uno @UUID[JournalEntry.Hd6J761opHoj2QRG]{Gnomo} del clan Trethaway e sta visitando l’Impero, cercando di sgraffignare qualcosa di utile da riportare a casa nelle tane del Glimdwarrow. Finora non ha trovato molto di interessante, ma si è divertito a rubacchiare tutto ciò che non era ben sottochiave lungo la strada, ed è sempre alla ricerca del prossimo grande colpo.</p><p> Glimbrin è presente in quattro avventure della campagna <strong>Notti Brave & Giorni Duri</strong>, quindi il GM deve per forza dare l’opportunità ai Personaggi di incontrarlo. Diventa ben presto un volto familiare, pertanto è consigliabile familiarizzare con il suo profilo del personaggio. </p><p>Nota: il suo Talento Soffuso di Ulgu, così come tutte le altre regole per gli Gnomi, è dettagliato nell’Appendice 1: @UUID[JournalEntry.Hd6J761opHoj2QRG]{Gnomi} (NBGD, pag. 86). </p><p>@UUID[JournalEntry.g4vOyAOCjOl4EHBO.JournalEntryPage.vCbvOWyg16kon6e7#trama-7-–-un-paio-di-borseggi]{Trama 7 – Un paio di borseggi}</p>"
+    },
+    {
+      "id": "Boatman",
+      "name": "Barcaiolo",
+      "description": "",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": "<p> Vi è un discreto numero di cocchieri e barcaioli: tutti umani che soggiornano alle Tre Piume. La maggior parte di loro beve fino a ubriacarsi, prima di trascinarsi nel dormitorio comune.</p>"
+    },
+    {
+      "id": "Erwin Blucher",
+      "name": "Erwin Blucher",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Pudgy Captain Erwin Blucher of the @UUID[Compendium.wfrp4e-starter-set.journals.TSyoR9nSk7cehypG.JournalEntryPage.tCh9vROs0eeTuEwA]{Magnus Tower} and flame-haired Captain @UUID[Actor.L0oHLYZcGQHDWKMo]{Andrea Pfeffer} of the Ubersreik Watch do not like each other much. But they find each other’s company infinitely preferable to the political battlefield they find themselves navigating. </p><p>Unless otherwise engaged, Andrea will withdraw relatively early to talk to her men guarding the mansion outside. Blucher will then turn to beer for his amusement.</p>"
+    },
+    {
+      "id": "Young Noble",
+      "name": "Young Noble",
+      "description": "<section id=\"secret-N8a7uZBVGACVny3v\" class=\"secret\"><p><strong>Status</strong>: Gold 1</p>\n<p>There is turmoil building across the Empire (see the <strong>Enemy Within</strong> campaign for more on this), so many of the local nobles, especially the Toppenheimers and Pfiefrauchers, are spoiling for a fight.</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+    {
+      "id": "Hans-Frederick Born",
+      "name": "Hans-Frederick Born",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>@UUID[Actor.8xawBmyhzCFVRCSY]{Gunni}, @UUID[Actor.meBFhv03FOIxxEuv]{Bart}, e @UUID[Actor.xpRHuMinqcOTfLhL]{Hans-Frederick} si presentano come seguaci di Morr nell’atto di trasportare un corpo per la sepoltura. Sono equipaggiati con armamentario rubato da un tempio di Morr. Si esprimono sempre in modo teatrale e con un tono monocorde per mantenere la copertura. Quando non si presentano come seguaci di Morr, tutti e tre gli uomini rivelano voci acute con un forte accento di Nuln, il cui tono si alza alla fine di ogni frase.</p><p><strong>Il Corpo</strong></p><p>@UUID[Actor.YW7PY6OHt5krs2pj]{Josef Aufwiegler}  è il &lsquo;corpo&lsquo; che i ‘seguaci di Morr’ trasportano all’interno della bara. Aufwiegler è un agitatore ricercato per aver causato i disordini di Nuln. Sebbene abbia pagato i contrabbandieri per essere condotto in salvo, non si aspettava di venire drogato. E neppure infilato dentro a una bara. O di essere, al suo risveglio, circondato da seguaci di Morr dal volto di teschio! Quando si risveglia, confuso e rintronato dai narcotici, Josef si fa 
+prendere dal panico.</p><p> @UUID[JournalEntry.g4vOyAOCjOl4EHBO.JournalEntryPage.vCbvOWyg16kon6e7#Trama-5-–-cenere-alla-cenere]{Trama 5 – Cenere alla cenere}</p>"
+    },
+    {
+      "id": "Jan",
+      "name": "Jan",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>@UUID[Actor.hVO7ScsPtmyul85F]{Gert} and @UUID[Actor.ykdWommB6UYZR0EE]{Jan} are two of Albrecht the Fish’s most capable and presentable thugs. But, no matter how much they try to fit in, they can’t even manage to get that right. Their demeanour, manner, and their sing-song Marienburger accents make them conspicuous. They are unmistakable to any that pay attention.</p><p>@UUID[JournalEntry.7JmoqchNSsLrwZwz.JournalEntryPage.9F9hrdjcrIXmEJTm#plot-4-–-a-matter-of-business]{Plot 4 – A Matter of Business}</p>"
+    },
+    {
+      "id": "Erwin Pakker",
+      "name": "Erwin Pakker",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Professor Pakker is old, bearded, and almost deaf, though he pretends to hear just fine. He blusters and huffs as he lectures those around him — he rarely simply ‘speaks’ — and frequently stares into open space, seemingly oblivious to the world. His @UUID[Actor.sJv11oVxAILGAgJe]{students}, by comparison, are boisterous, opinionated, and frequently drunk, a situation the professor does absolutely nothing to resolve.</p>"
+    },
+    {
+      "id": "Borgun Foambeard",
+      "name": "Borgun Foambeard",
+      "description": "",
+      "species": "Nano",
+      "gender": "Maschio",
+      "gmnotes": "<p><span class=\"fontstyle0\">Borgun Foambeard is a local brewer of some repute. He is broad-shouldered and dour, spending most of his time monitoring his staff as they organise drinks in the Dining Room. He has little interest in ‘manling business’, and has no desire to be part of a masquerade, but @UUID[Actor.6SbnET9r1ewR2QCF]{Holzenauer} is paying good gold for his beer, so he’ll frown through it as best he can manage.</span></p>"
     }
   ]
 }
