@@ -43,8 +43,7 @@
     {
       "id": "Bodyguards and Men-At-Arms",
       "name": "Guardie del corpo e Uomini d'Arme",
-      "description": "<section id=\"secret-0Y14dFJbDJCBQwkY\" class=\"secret\"><p><strong>Status</strong>: Argento 3</p>\n<p>La @UUID[Actor.J8AHNs6dcy40mhXr]{Grafina} ha numerosi domestici, ancelle, uomini d’arme, 
-guardie del corpo, altri membri del personale e associati vari, tutti abbigliati con una livrea magenta e gialla. Nel suo stato maggiore vi sono Hans Erpresser, servitore con un debole per il ricatto (per lui, utilizzare le statistiche di ancelle e servi) ed @UUID[Actor.eOlJad1Pky9vNevM]{Eliza}, nuova assunta che non è esattamente quel che appare.</p></section>",
+      "description": "<section id=\"secret-0Y14dFJbDJCBQwkY\" class=\"secret\"><p><strong>Status</strong>: Argento 3</p>\n<p>La @UUID[Actor.J8AHNs6dcy40mhXr]{Grafina} ha numerosi domestici, ancelle, uomini d’arme, guardie del corpo, altri membri del personale e associati vari, tutti abbigliati con una livrea magenta e gialla. Nel suo stato maggiore vi sono Hans Erpresser, servitore con un debole per il ricatto (per lui, utilizzare le statistiche di ancelle e servi) ed @UUID[Actor.eOlJad1Pky9vNevM]{Eliza}, nuova assunta che non è esattamente quel che appare.</p></section>",
       "species": "Umano",
       "gender": "Varie",
       "gmnotes": ""
